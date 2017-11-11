@@ -78,7 +78,7 @@
 <img name="茨城のお酒" width=300 src="assets/ibaraki_sakes.jpg">
 <br>
 <img name="来福" width=200 src="assets/raifuku.jpg">
-<img name="友寿" width=200 src="assets/yuuju.jpg">
+<img name="友寿" width=200 src="assets/yuju.jpg">
 <img name="愛友" width=200 src="assets/aiyuu.jpg">
 <img name="来福の精米" width=200 src="assets/raifuku_rice.jpg">
 
