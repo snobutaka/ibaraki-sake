@@ -10,7 +10,6 @@
 茨城県といえば……
 
 <img name="HITACHI" width=200 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Hitachi_logo_LIGHT_HIRES.jpg">
-<img name="MitoKomon" width=200 src="http://www.pref.ibaraki.jp/bugai/koho/koho/pr/images/hustle-hp_spring_1.jpg">
 <img name="Kasumigaura" width=200 src="https://upload.wikimedia.org/wikipedia/ja/6/68/20081229霞ヶ浦西浦.jpg">
 <img name="ひたち海浜公園" width=200 src="http://www.ibarakiguide.jp/wp-content/uploads/2015/03/03.jpg">
 <img name="イバラキング" width=200 src="http://www.ibaraki-shokusai.net/brand/images/child/melon_ibaraking_fv.jpg">
@@ -21,7 +20,7 @@
 <img name="マギー司郎" height=200 src="http://kokoro-kotoba-9.blog.so-net.ne.jp/_images/blog/_209/kokoro-kotoba-9/484624_402835409778259_1474922070_n.jpg">
 <img name="渡辺直美" width=200 src="https://wordleaf.c.yimg.jp/wordleaf/thepage/images/20151101-00000003-wordleaf/20151101-00000003-wordleaf-0b530edfd2c699570352a0fc6dbd108c7.jpg">
 <img name="夜のピクニック" width=200 src="http://image.space.rakuten.co.jp/lg01/77/0000215677/70/imgd3758251tnbs57.jpeg">
-<img name="カミーユの中の人" width=200 src="http://www.z-gundam.net/story/images/thumbnail_02.jpg">
+<img name="MitoKomon" width=200 src="http://www.pref.ibaraki.jp/bugai/koho/koho/pr/images/hustle-hp_spring_1.jpg">
 <img name="ガールズ&パンツァー" width=200 src="http://www.bs11.jp/anime/img/girls-und-panzer.jpg">
 
 ---
