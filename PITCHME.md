@@ -31,4 +31,4 @@ TODO 石岡市以外のお酒についてここに書く
 ---
 # おわり
 
-Thanks for listening!
+Thank you for listening!
