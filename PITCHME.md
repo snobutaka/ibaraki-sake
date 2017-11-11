@@ -7,9 +7,8 @@
 
 +++
 
-茨城県といえば……
-
 <img name="HITACHI" width=200 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Hitachi_logo_LIGHT_HIRES.jpg">
+<img name="水戸黄門" width=200 src="http://dm17bquiori2j.cloudfront.net/ip4/program/data/__icsFiles/afieldfile/2017/06/13/1000-562.jpg">
 <img name="Kasumigaura" width=200 src="https://upload.wikimedia.org/wikipedia/ja/6/68/20081229霞ヶ浦西浦.jpg">
 <img name="ひたち海浜公園" width=200 src="http://www.ibarakiguide.jp/wp-content/uploads/2015/03/03.jpg">
 <img name="イバラキング" width=200 src="http://www.ibaraki-shokusai.net/brand/images/child/melon_ibaraking_fv.jpg">
@@ -20,8 +19,6 @@
 <img name="マギー司郎" height=200 src="http://kokoro-kotoba-9.blog.so-net.ne.jp/_images/blog/_209/kokoro-kotoba-9/484624_402835409778259_1474922070_n.jpg">
 <img name="渡辺直美" width=200 src="https://wordleaf.c.yimg.jp/wordleaf/thepage/images/20151101-00000003-wordleaf/20151101-00000003-wordleaf-0b530edfd2c699570352a0fc6dbd108c7.jpg">
 <img name="夜のピクニック" width=200 src="http://image.space.rakuten.co.jp/lg01/77/0000215677/70/imgd3758251tnbs57.jpeg">
-<img name="MitoKomon" width=200 src="http://www.pref.ibaraki.jp/bugai/koho/koho/pr/images/hustle-hp_spring_1.jpg">
-<img name="ガールズ&パンツァー" width=200 src="http://www.bs11.jp/anime/img/girls-und-panzer.jpg">
 
 ---
 
@@ -31,24 +28,30 @@
 ### 石岡市
 
 +++
-奈良時代には常陸国の国府が置かれていました．
+
+奈良時代には **常陸国の国府** が置かれていました
 
 <img name="舟塚山古墳" width=200 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Funatsukayama-kofun_zenkei.JPG/1280px-Funatsukayama-kofun_zenkei.JPG">
 <img name="獅子舞" width=200 src="http://sosyagu.jp/cms/wp-content/themes/hitachinokuni-sosyagu/img/matsuri_gallery2_img1.jpg">
 <img name="常陸総社宮大祭" width=200 src="http://sosyagu.jp/cms/wp-content/themes/hitachinokuni-sosyagu/img/matsuri_gallery2_img4.jpg">
+<img name="看板建築" width=200 src="http://blog-imgs-61.fc2.com/k/o/z/kozoh55/20131007233500726.jpg">
+<img name="獅子頭" width=200 src="http://www.city.ishioka.lg.jp/data/img/1377843267_51.jpg?1377848171">
 
 ---
 ### 石岡のお酒 その 1
 
 [石岡酒造](http://www.ishiokashuzo.co.jp)さん
 
-<img name="筑波 紫の峰" width=200 src="assets/tsukuba_murasaki_no_mine.jpg">
+
 
 +++
 #### 筑波 紫の峰
 
+<img name="筑波 紫の峰" width=200 src="assets/tsukuba_murasaki_no_mine.jpg">
+
 
 +++
+
 #### 筑波山
 
 <img name="筑波山" width=200 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mount_Tsukuba_2.jpg/1280px-Mount_Tsukuba_2.jpg">
@@ -60,16 +63,19 @@
 
 [府中誉](http://www.huchuhomare.com)さん
 
-TODO 渡舟などについてここに書く
+
+
++++ 
+
+### 渡舟
 
 <img name="Wataribune" width=200 src="assets/wataribune.jpg">
 
 ---
+
 ## 石岡市以外のお酒
 
-TODO 石岡市以外のお酒についてここに書く
-
-<img name="茨城のお酒" width=400 src="assets/ibaraki_sakes.jpg">
+<img name="茨城のお酒" width=300 src="assets/ibaraki_sakes.jpg">
 <br>
 <img name="来福" width=200 src="assets/raifuku.jpg">
 <img name="友寿" width=200 src="assets/yuuju.jpg">
