@@ -7,11 +7,11 @@
 +++
 TODO 茨城県についてここに書く
 
-![HITACHI](https://upload.wikimedia.org/wikipedia/commons/e/e7/Hitachi_logo_LIGHT_HIRES.jpg)
-![水戸黄門](http://www.pref.ibaraki.jp/bugai/koho/koho/pr/images/hustle-hp_spring_1.jpg)
-![霞ヶ浦](https://upload.wikimedia.org/wikipedia/ja/6/68/20081229霞ヶ浦西浦.jpg)
-![コシヒカリ](http://www.ib.zennoh.or.jp/ibakoshi/contents/koshihikari_img/meigara1.jpg)
-![ガールズ&パンツァー](http://www.bs11.jp/anime/img/girls-und-panzer.jpg)
+<img name="HITACHI" width=200 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Hitachi_logo_LIGHT_HIRES.jpg">
+<img name="MitoKomon" width=200 src="http://www.pref.ibaraki.jp/bugai/koho/koho/pr/images/hustle-hp_spring_1.jpg">
+<img name="Kasumigaura" width=200 src="https://upload.wikimedia.org/wikipedia/ja/6/68/20081229霞ヶ浦西浦.jpg">
+<img name="ガールズ&パンツァー" width=200 src="http://www.bs11.jp/anime/img/girls-und-panzer.jpg">
+<img name="Koshihikari" width=200 src="http://www.ib.zennoh.or.jp/ibakoshi/contents/koshihikari_img/meigara1.jpg">
 
 ---
 ## 石岡市のお酒
