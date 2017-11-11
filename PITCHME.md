@@ -43,7 +43,6 @@
 [石岡酒造](http://www.ishiokashuzo.co.jp)さん
 
 
-
 +++
 #### 筑波 紫の峰
 
@@ -56,6 +55,7 @@
 
 <img name="筑波山" width=200 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mount_Tsukuba_2.jpg/1280px-Mount_Tsukuba_2.jpg">
 
+TODO お酒の説明
 
 ---
 
@@ -64,12 +64,13 @@
 [府中誉](http://www.huchuhomare.com)さん
 
 
-
 +++ 
 
 ### 渡舟
 
 <img name="Wataribune" width=200 src="assets/wataribune.jpg">
+
+TODO お酒の説明
 
 ---
 
@@ -87,3 +88,5 @@
 ## おわり
 
 Thank you for listening!
+
+Enjoy Sake!
