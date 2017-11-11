@@ -48,6 +48,7 @@
 
 <img name="筑波 紫の峰" width=200 src="assets/tsukuba_murasaki_no_mine.jpg">
 
+TODO お酒の説明
 
 +++
 
@@ -55,7 +56,6 @@
 
 <img name="筑波山" width=200 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mount_Tsukuba_2.jpg/1280px-Mount_Tsukuba_2.jpg">
 
-TODO お酒の説明
 
 ---
 
