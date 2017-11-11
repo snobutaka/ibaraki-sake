@@ -20,23 +20,25 @@ TODO 茨城県についてここに書く
 ### 石岡市
 
 +++
-![舟塚山古墳](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Funatsukayama-kofun_zenkei.JPG/1280px-Funatsukayama-kofun_zenkei.JPG)
-![獅子舞](http://sosyagu.jp/cms/wp-content/themes/hitachinokuni-sosyagu/img/matsuri_gallery2_img1.jpg)
-![常陸総社宮大祭](http://sosyagu.jp/cms/wp-content/themes/hitachinokuni-sosyagu/img/matsuri_gallery2_img4.jpg)
+奈良時代には常陸国の国府が置かれていました．
+
+<img name="舟塚山古墳" width=200 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Funatsukayama-kofun_zenkei.JPG/1280px-Funatsukayama-kofun_zenkei.JPG">
+<img name="獅子舞" width=200 src="http://sosyagu.jp/cms/wp-content/themes/hitachinokuni-sosyagu/img/matsuri_gallery2_img1.jpg">
+<img name="常陸総社宮大祭" width=200 src="http://sosyagu.jp/cms/wp-content/themes/hitachinokuni-sosyagu/img/matsuri_gallery2_img4.jpg">
 
 ---
 ### 石岡のお酒 その 1
 
-石岡酒造さん
+[石岡酒造]さん(http://www.ishiokashuzo.co.jp)
 
 TODO 筑波などについてここに書く
 
-![Tsukuba, Murasaki no Mine](assets/tsukuba_murasaki_no_mine.jpg)
+<img name="筑波 紫の峰" width=200 src="assets/tsukuba_murasaki_no_mine.jpg">
 
 +++
 #### 筑波山
 
-![筑波山](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mount_Tsukuba_2.jpg/1280px-Mount_Tsukuba_2.jpg)
+<img name="筑波山" width=200 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mount_Tsukuba_2.jpg/1280px-Mount_Tsukuba_2.jpg">
 
 +++
 #### 
@@ -45,18 +47,18 @@ TODO 筑波などについてここに書く
 ---
 ### 石岡のお酒 その 2
 
-府中酒造さん
+[府中誉](http://www.huchuhomare.com)さん
 
 TODO 渡舟などについてここに書く
 
-![Wataribune](assets/wataribune.jpg)
+<img name="Wataribune" width=200 src="assets/wataribune.jpg">
 
 ---
 ## 石岡市以外のお酒
 
 TODO 石岡市以外のお酒についてここに書く
 
-![Other sake in Ibaraki](assets/ibaraki_sakes.jpg)
+<img name="茨城のお酒" width=200 src="assets/ibaraki_sakes.jpg">
 
 ---
 ## おわり
