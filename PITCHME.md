@@ -37,6 +37,19 @@
 <img name="看板建築" width=200 src="http://blog-imgs-61.fc2.com/k/o/z/kozoh55/20131007233500726.jpg">
 <img name="獅子頭" width=200 src="http://www.city.ishioka.lg.jp/data/img/1377843267_51.jpg?1377848171">
 
+
++++
+
+<img name="石岡の地酒" height=200 src="http://www.city.ishioka.lg.jp/data/img/1421224202_56.jpg">
+
+> - "石岡市は古来より、関東有数の醸造のまちとして知られ、明治時代には茨城県内最大の醸造のまちとして、「関東の灘」と呼ばれていました。"
+
+> - "酒造りに最適なこの水を使い、平安時代には、すでに酒造りが行われていたとも言われています。"
+
+<br>
+<br>
+．．． [石岡動画チャンネル vol.8, 石岡の地酒](http://www.city.ishioka.lg.jp/page/page003173.html) より引用
+
 ---
 ### 石岡のお酒 その 1
 
