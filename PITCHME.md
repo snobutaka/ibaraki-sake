@@ -5,6 +5,8 @@
 
 ## 茨城県
 
+<img name="茨城県" witdh=250 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Map_of_Japan_with_highlight_on_08_Ibaraki_prefecture.svg/1024px-Map_of_Japan_with_highlight_on_08_Ibaraki_prefecture.svg.png">
+
 +++
 
 <img name="HITACHI" width=200 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Hitachi_logo_LIGHT_HIRES.jpg">
@@ -26,6 +28,8 @@
 
 ---
 ### 石岡市
+
+<img name="石岡市" width=250 src="https://upload.wikimedia.org/wikipedia/ja/thumb/9/9f/基礎自治体位置図_08205.svg/560px-基礎自治体位置図_08205.svg.png">
 
 +++
 
@@ -56,7 +60,7 @@
 +++
 #### 筑波 紫の峰
 
-<img name="筑波 紫の峰" width=200 src="assets/tsukuba_murasaki_no_mine.jpg">
+<img name="筑波 紫の峰" width=400 src="assets/tsukuba_murasaki_no_mine.jpg">
 
 TODO お酒の説明
 
@@ -64,7 +68,7 @@ TODO お酒の説明
 
 #### 筑波山
 
-<img name="筑波山" width=200 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mount_Tsukuba_2.jpg/1280px-Mount_Tsukuba_2.jpg">
+<img name="筑波山" width=600 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mount_Tsukuba_2.jpg/1280px-Mount_Tsukuba_2.jpg">
 
 
 ---
@@ -78,7 +82,7 @@ TODO お酒の説明
 
 ### 渡舟
 
-<img name="Wataribune" width=200 src="assets/wataribune.jpg">
+<img name="Wataribune" width=400 src="assets/wataribune_daiginjo.jpg">
 
 TODO お酒の説明
 
