@@ -5,7 +5,7 @@
 
 ## 茨城県
 
-<img name="茨城県" witdh=250 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Map_of_Japan_with_highlight_on_08_Ibaraki_prefecture.svg/1024px-Map_of_Japan_with_highlight_on_08_Ibaraki_prefecture.svg.png">
+<img name="茨城県" width=400 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Map_of_Japan_with_highlight_on_08_Ibaraki_prefecture.svg/1024px-Map_of_Japan_with_highlight_on_08_Ibaraki_prefecture.svg.png">
 
 +++
 
@@ -29,7 +29,7 @@
 ---
 ### 石岡市
 
-<img name="石岡市" width=250 src="https://upload.wikimedia.org/wikipedia/ja/thumb/9/9f/基礎自治体位置図_08205.svg/560px-基礎自治体位置図_08205.svg.png">
+<img name="石岡市" width=400 src="https://upload.wikimedia.org/wikipedia/ja/thumb/9/9f/基礎自治体位置図_08205.svg/560px-基礎自治体位置図_08205.svg.png">
 
 +++
 
