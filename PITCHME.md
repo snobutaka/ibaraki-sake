@@ -82,7 +82,7 @@ TODO お酒の説明
 
 ### 渡舟
 
-<img name="Wataribune" width=400 src="assets/wataribune_daiginjo.jpg">
+<img name="Wataribune" width=400 src="assets/wataribune_daiginjoh.jpg">
 
 TODO お酒の説明
 
