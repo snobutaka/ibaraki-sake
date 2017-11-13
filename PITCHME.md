@@ -47,7 +47,7 @@
 <img name="石岡の地酒" height=200 src="http://www.city.ishioka.lg.jp/data/img/1421224202_56.jpg">
 
 ##### "石岡市は古来より、関東有数の醸造のまちとして知られ、明治時代には茨城県内最大の醸造のまちとして、「関東の灘」と呼ばれていました。"
-##### 酒造りに最適なこの水を使い、平安時代には、すでに酒造りが行われていたとも言われています。"
+##### "酒造りに最適なこの水を使い、平安時代には、すでに酒造りが行われていたとも言われています。"
 <br>
 ... [石岡動画チャンネル vol.8, 石岡の地酒](http://www.city.ishioka.lg.jp/page/page003173.html) より引用
 
@@ -82,7 +82,7 @@ TODO お酒の説明
 
 ### 渡舟
 
-<img name="Wataribune" width=400 src="assets/wataribune_daiginjoh.jpg">
+<img name="Wataribune" width=350 src="assets/wataribune_daiginjoh.jpg">
 
 TODO お酒の説明
 
