@@ -11,9 +11,10 @@
 
 <img name="HITACHI" width=200 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Hitachi_logo_LIGHT_HIRES.jpg">
 <img name="水戸黄門" width=200 src="http://dm17bquiori2j.cloudfront.net/ip4/program/data/__icsFiles/afieldfile/2017/06/13/1000-562.jpg">
-<img name="Kasumigaura" width=200 src="https://upload.wikimedia.org/wikipedia/ja/6/68/20081229霞ヶ浦西浦.jpg">
+<img name="霞ヶ浦" width=200 src="https://upload.wikimedia.org/wikipedia/ja/6/68/20081229霞ヶ浦西浦.jpg">
 <img name="ひたち海浜公園" width=200 src="http://www.ibarakiguide.jp/wp-content/uploads/2015/03/03.jpg">
 <img name="イバラキング" width=200 src="http://www.ibaraki-shokusai.net/brand/images/child/melon_ibaraking_fv.jpg">
+<img name="あんこう鍋" width=200 src="http://www.ibarakiguide.jp/wp-content/uploads/2016/10/ac2f08746bd646d01018f229b7749e2b-400x267.jpg">
 <img name="Koshihikari" width=200 src="http://www.ib.zennoh.or.jp/ibakoshi/contents/koshihikari_img/meigara1.jpg">
 <img name="納豆像" height=200 src="assets/natto_statue.jpg">
 <img name="栗山千明" height=200 src="http://i.imgur.com/hbhJP.jpg">
@@ -35,11 +36,14 @@
 
 奈良時代には **常陸国の国府** が置かれていました
 
-<img name="舟塚山古墳" width=200 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Funatsukayama-kofun_zenkei.JPG/1280px-Funatsukayama-kofun_zenkei.JPG">
+<img name="舟塚山古墳" width=200 src="http://www.city.ishioka.lg.jp/data/img/1379679082_3.jpg?1379679130">
 <img name="獅子舞" width=200 src="http://sosyagu.jp/cms/wp-content/themes/hitachinokuni-sosyagu/img/matsuri_gallery2_img1.jpg">
 <img name="常陸総社宮大祭" width=200 src="http://sosyagu.jp/cms/wp-content/themes/hitachinokuni-sosyagu/img/matsuri_gallery2_img4.jpg">
-<img name="看板建築" width=200 src="http://blog-imgs-61.fc2.com/k/o/z/kozoh55/20131007233500726.jpg">
+<img name="ささら" width=200 src="http://www.city.ishioka.lg.jp/data/img/1408602102_5.jpg">
+<img name="風土記の丘.遺跡" width=200 src="http://www.ishioka-kankou.com/data/img/1395203081_7.jpg">
+<img name="風土記の丘.桜" width=200 src="http://www.ishioka-kankou.com/data/img/1395203005_7.jpg">
 <img name="獅子頭" width=200 src="http://www.city.ishioka.lg.jp/data/img/1377843267_51.jpg?1377848171">
+<img name="看板建築" width=200 src="http://blog-imgs-61.fc2.com/k/o/z/kozoh55/20131007233500726.jpg">
 
 
 +++
