@@ -16,8 +16,8 @@
 
 <img name="イバラキング" width=200 src="http://www.ibaraki-shokusai.net/brand/images/child/melon_ibaraking_fv.jpg">
 <img name="あんこう鍋" width=200 src="http://www.ibarakiguide.jp/wp-content/uploads/2016/10/ac2f08746bd646d01018f229b7749e2b-400x267.jpg">
-<img name="こしひかり" width=200 src="http://www.ib.zennoh.or.jp/ibakoshi/contents/koshihikari_img/meigara1.jpg">
-<img name="納豆像" height=200 src="assets/natto_statue.jpg">
+<img name="こしひかり" width=150 src="http://www.ib.zennoh.or.jp/ibakoshi/contents/koshihikari_img/meigara1.jpg">
+<img name="納豆像" height=150 src="assets/natto_statue.jpg">
 
 <img name="栗山千明" height=200 src="http://i.imgur.com/hbhJP.jpg">
 <img name="マギー司郎" height=200 src="http://kokoro-kotoba-9.blog.so-net.ne.jp/_images/blog/_209/kokoro-kotoba-9/484624_402835409778259_1474922070_n.jpg">
