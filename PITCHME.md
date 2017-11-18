@@ -65,7 +65,7 @@
 
 
 +++
-#### 筑波 紫の峰
+#### [筑波 紫の峰](https://www.amazon.co.jp/dp/B007IFMNXC/ref=cm_sw_r_tw_dp_x_mZdeAbHH5FWGX)
 
 <img name="筑波 紫の峰" width=400 src="assets/tsukuba_murasaki_no_mine.jpg">
 
@@ -85,7 +85,7 @@
 
 +++ 
 
-### 渡舟
+### [渡舟](https://www.amazon.co.jp/dp/B005J1FBAY/ref=cm_sw_r_tw_dp_x_A0deAb74PYNB4)
 
 <img name="Wataribune" width=350 src="assets/wataribune_daiginjoh.jpg">
 
