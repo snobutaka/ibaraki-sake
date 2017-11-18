@@ -62,8 +62,6 @@
 
 <img name="筑波 紫の峰" width=400 src="assets/tsukuba_murasaki_no_mine.jpg">
 
-TODO お酒の説明
-
 +++
 
 #### 筑波山
@@ -84,7 +82,11 @@ TODO お酒の説明
 
 <img name="Wataribune" width=350 src="assets/wataribune_daiginjoh.jpg">
 
-TODO お酒の説明
++++
+
+#### 酒米「渡船 (わたりぶね)」
+
+<img name="酒米渡船" width=350 src="assets/about_rice_wataribune.jpg" >
 
 ---
 
