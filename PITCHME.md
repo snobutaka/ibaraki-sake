@@ -18,7 +18,7 @@
 [<img name="あんこう鍋" width=200 src="http://www.ibarakiguide.jp/wp-content/uploads/2016/10/ac2f08746bd646d01018f229b7749e2b-400x267.jpg">](https://www.youtube.com/watch?v=G-DvjaKSuhc)
 [<img name="こしひかり" width=150 src="http://www.ib.zennoh.or.jp/ibakoshi/contents/koshihikari_img/meigara1.jpg">](http://www.ib.zennoh.or.jp/ibakoshi/contents/koshihikari.html)
 <img name="納豆像" height=150 src="assets/natto_statue.jpg">
-[<img name="CYBERDYNE, HAL" width=150 src="http://www.extremetech.com/wp-content/uploads/2012/11/Hal-Exoskeleton.jpg"](https://www.cyberdyne.jp)
+[<img name="CYBERDYNE, HAL" width=150 src="http://www.extremetech.com/wp-content/uploads/2012/11/Hal-Exoskeleton.jpg">](https://www.cyberdyne.jp)
 
 [<img name="栗山千明" height=200 src="http://i.imgur.com/hbhJP.jpg">](http://spacecraft.co.jp/chiaki_kuriyama/)
 [<img name="マギー司郎" height=200 src="http://kokoro-kotoba-9.blog.so-net.ne.jp/_images/blog/_209/kokoro-kotoba-9/484624_402835409778259_1474922070_n.jpg">](http://www.st21.co.jp/jumoku/profile.html)
