@@ -14,7 +14,7 @@
 <img name="霞ヶ浦" width=200 src="https://upload.wikimedia.org/wikipedia/ja/6/68/20081229霞ヶ浦西浦.jpg">
 <img name="ひたち海浜公園" width=200 src="http://www.ibarakiguide.jp/wp-content/uploads/2015/03/03.jpg">
 
-<img name="イバラキング" width=200 src="http://www.ibaraki-shokusai.net/brand/images/child/melon_ibaraking_fv.jpg">
+[<img name="イバラキング" width=200 src="http://www.ibaraki-shokusai.net/brand/images/child/melon_ibaraking_fv.jpg">](http://jp1.com/ranking/都道府県別メロン収穫量ランキング/)
 <img name="あんこう鍋" width=200 src="http://www.ibarakiguide.jp/wp-content/uploads/2016/10/ac2f08746bd646d01018f229b7749e2b-400x267.jpg">
 <img name="こしひかり" width=150 src="http://www.ib.zennoh.or.jp/ibakoshi/contents/koshihikari_img/meigara1.jpg">
 <img name="納豆像" height=150 src="assets/natto_statue.jpg">
