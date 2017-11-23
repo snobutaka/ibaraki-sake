@@ -101,9 +101,9 @@
 
 <img name="茨城のお酒" width=300 src="assets/ibaraki_sakes.jpg">
 <br>
-[<img name="来福" width=200 src="assets/raifuku.jpg">](http://www.raifuku.co.jp/list.html)
-[<img name="友寿" width=200 src="assets/yuju.jpg">](http://www.aiyu-sake.jp/products/db.cgi?sline=20&print=1&keys3=愛友%E3%80%80五百万石友寿&tid=detail)
-[<img name="愛友" width=200 src="assets/aiyuu.jpg">](http://www.aiyu-sake.jp/products/db.cgi?sline=22&print=1&keys3=愛友%E3%80%80大吟醸&tid=detail)
+<img name="来福" width=200 src="assets/raifuku.jpg">
+<img name="友寿" width=200 src="assets/yuju.jpg">
+<img name="愛友" width=200 src="assets/aiyuu.jpg">
 <img name="来福の精米" width=200 src="assets/raifuku_rice.jpg">
 
 
