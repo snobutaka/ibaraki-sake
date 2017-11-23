@@ -33,20 +33,20 @@
 ---
 ### 石岡市
 
-<img name="石岡市" width=400 src="https://upload.wikimedia.org/wikipedia/ja/thumb/9/9f/基礎自治体位置図_08205.svg/560px-基礎自治体位置図_08205.svg.png">
+[<img name="石岡市" width=400 src="https://upload.wikimedia.org/wikipedia/ja/thumb/9/9f/基礎自治体位置図_08205.svg/560px-基礎自治体位置図_08205.svg.png">](http://www.city.ishioka.lg.jp)
 
 +++
 
-奈良時代には **常陸国の国府** が置かれていました
+奈良時代には **[常陸国の国府](https://ja.wikipedia.org/wiki/常陸国)** が置かれていました
 
 <img name="舟塚山古墳" width=200 src="http://www.city.ishioka.lg.jp/data/img/1379679082_3.jpg?1379679130">
-<img name="獅子舞" width=200 src="http://sosyagu.jp/cms/wp-content/themes/hitachinokuni-sosyagu/img/matsuri_gallery2_img1.jpg">
-<img name="常陸総社宮大祭" width=200 src="http://sosyagu.jp/cms/wp-content/themes/hitachinokuni-sosyagu/img/matsuri_gallery2_img4.jpg">
-<img name="ささら" width=200 src="http://www.city.ishioka.lg.jp/data/img/1408602102_5.jpg">
-<img name="風土記の丘.遺跡" width=200 src="http://www.ishioka-kankou.com/data/img/1395203081_7.jpg">
+[<img name="常陸総社宮大祭.獅子舞" width=200 src="http://sosyagu.jp/cms/wp-content/themes/hitachinokuni-sosyagu/img/matsuri_gallery2_img1.jpg">](http://sosyagu.jp/omatsuri/)
+<img name="常陸総社宮大祭.山車" width=200 src="http://sosyagu.jp/cms/wp-content/themes/hitachinokuni-sosyagu/img/matsuri_gallery2_img4.jpg">
+<img name="常陸総社宮大祭.ささら" width=200 src="http://www.city.ishioka.lg.jp/data/img/1408602102_5.jpg">
+[<img name="風土記の丘.遺跡" width=200 src="http://www.ishioka-kankou.com/data/img/1395203081_7.jpg">](http://business2.plala.or.jp/fudoki/)
 <img name="風土記の丘.桜" width=200 src="http://www.ishioka-kankou.com/data/img/1395203005_7.jpg">
 <img name="獅子頭" width=200 src="http://www.city.ishioka.lg.jp/data/img/1377843267_51.jpg?1377848171">
-<img name="看板建築" width=200 src="http://blog-imgs-61.fc2.com/k/o/z/kozoh55/20131007233500726.jpg">
+[<img name="看板建築" width=200 src="http://blog-imgs-61.fc2.com/k/o/z/kozoh55/20131007233500726.jpg">](http://www.city.ishioka.lg.jp/page/page001492.html)
 
 
 +++
@@ -101,9 +101,9 @@
 
 <img name="茨城のお酒" width=300 src="assets/ibaraki_sakes.jpg">
 <br>
-<img name="来福" width=200 src="assets/raifuku.jpg">
-<img name="友寿" width=200 src="assets/yuju.jpg">
-<img name="愛友" width=200 src="assets/aiyuu.jpg">
+[<img name="来福" width=200 src="assets/raifuku.jpg">](http://www.raifuku.co.jp/list.html)
+[<img name="友寿" width=200 src="assets/yuju.jpg">](http://www.aiyu-sake.jp/products/db.cgi?sline=20&print=1&keys3=愛友%E3%80%80五百万石友寿&tid=detail)
+[<img name="愛友" width=200 src="assets/aiyuu.jpg">](http://www.aiyu-sake.jp/products/db.cgi?sline=22&print=1&keys3=愛友%E3%80%80大吟醸&tid=detail)
 <img name="来福の精米" width=200 src="assets/raifuku_rice.jpg">
 
 
